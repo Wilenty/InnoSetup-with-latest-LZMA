@@ -1,4 +1,4 @@
-# InnoSetup with LZMA v22.01
+# InnoSetup v6.2.1 with LZMA v22.01
 
 At the outset, according to the license:
 https://github.com/Wilenty/InnoSetup-with-latest-LZMA/blob/main/license.txt#L26
