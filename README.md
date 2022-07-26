@@ -1,1 +1,1 @@
-# InnoSetup-with-latest-LZMA
+# InnoSetup with LZMA v22.01
