@@ -6,7 +6,7 @@ https://github.com/Wilenty/InnoSetup-with-latest-LZMA/blob/main/license.txt#L26
 4. Modified versions in source or binary form must be plainly marked as such, and must not be
 misrepresented as being the original software.
 ```
-I admit that it is not the original software (but I did it because the original one was not updated the LZMA from 7-zip source for 12 years).
+I admit that it is not the original software (since the LZMA was not updated from 7-zip source for 12 years in the original one).
 
 At the beginning I updated the compressor only, and later I updated the de-compressor also, so I share version v6.2.1 that works with Windows 7 and newer.
 These files "islzma.dll", "islzma32.exe" or "islzma64.exe" can be detected as a virus:
