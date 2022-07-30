@@ -37,7 +37,7 @@ https://www.virustotal.com/gui/file/0b2e19e473a47e10578b05a2f3b43ad96603f3ee1e39
 **I don't collect Viruses on my own computer, nor on the VM (virtual machine), where I test programs on different OS's and it's architectures!!!**
 So, if you don't trust me - please don't download it at all!
 
-Of course it can happens that I can get one (or more) when surfing the internet, but I checked my computer with many online scanners and I don't found any. So, open question to the creators of the AV scanners: where the virus was, in the Visual Studio 2015 Community Edition and (some part of) the Visual Studio 2010? But not in the Visual Studio 2005? It was compiled from exactly the same files, exactly on the same computer, but with different compilers...
+Of course it can happens that I can get one (or more) when surfing the internet, but I checked my computer with many online scanners and I don't found any. So, open question to the creators of the AV scanners: where the virus was, in the Visual Studio 2015 Community Edition and (some part of) the Visual Studio 2010? But not in the Visual Studio 2005? It was compiled from exactly the same files, on exactly the same computer, but with different compilers...
 
 Differences in the modified InnoSetup with LZMA v22.01 to the original one with LZMA from 2010:
 1) changed maximum LZMA block size from 256MB to 4GB for separate threads. With 4GB block size and separate threads it will use about 12GB of RAM for LZMA2 and about 10GB of RAM for LZMA. Single thread not changed and limited to the 32-bit app as described in the help file.
