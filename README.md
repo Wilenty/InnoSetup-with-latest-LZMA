@@ -1,5 +1,3 @@
-InnoSetup with latest LZMA
----
 # InnoSetup v6.2.1 with LZMA v22.01 - FIXED (AV detection)
 
 At the outset, according to the license:
