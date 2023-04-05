@@ -1,3 +1,8 @@
+# InnoSetup v6.2.2 with LZMA v22.01 and 4GB per part
+
+Get it from there: https://github.com/Wilenty/Plug-ins-for-InnoSetup
+Filename: `InnoSetup-6.2.2-LZMA2201-4GbPerPart.7z`
+
 # InnoSetup v6.2.1 with LZMA v22.01 - FIXED (AV detection)
 
 At the outset, according to the license:
@@ -51,6 +56,8 @@ It was compiled by using:
 
 If you need, or you will need professional help in the InnoSetup script/code, please donate me, and I will try to help you as much as I can. Sorry, but I don't help on GitHub, or other forums...
 
+<details><summary>Publicity</summary>
+
 By the way,
 I am preparing to sell my works done in pure InnoSetup code without any external DLL's via donations. I will show you some of them on the screenshots, what I currently did. I hope that I will finish the examples to end of vacations, but I not promises it...
 These examples are protected from unpacking, so, sometimes they are detected as dangerous/malicious. Anyway you can test them in the VM (virtual machine).
@@ -100,3 +107,5 @@ These examples are protected from unpacking, so, sometimes they are detected as 
 ![GetBusType-REMOVABLE-Usb](https://user-images.githubusercontent.com/61757638/181123222-6ea2b183-5170-4b2d-bd27-61a150668b72.png)
 
 ![GetBusType-Unknown](https://user-images.githubusercontent.com/61757638/181123238-7a5e9c83-4299-4456-a06e-9637d15138fb.png)
+
+</details>
