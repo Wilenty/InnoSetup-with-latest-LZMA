@@ -1,9 +1,20 @@
 # InnoSetup v6.2.2 with LZMA v22.01 and 4GB per part
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/Plug-ins-for-InnoSetup.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/latest/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/latest)
+[![v6.2.3 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.3/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.3)
+[![v6.2.2 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.2/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.2)
+[![v6.2.1 Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.2.1/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.2.1)
+
 Get it from there: https://github.com/Wilenty/Plug-ins-for-InnoSetup
 Filename: `InnoSetup-6.2.2-LZMA2201-4GbPerPart.7z`
 
 # InnoSetup v6.2.1 with LZMA v22.01 - FIXED (AV detection)
+
+[![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-with-latest-LZMA.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/latest/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
 
 At the outset, according to the license:
 https://github.com/Wilenty/InnoSetup-with-latest-LZMA/blob/main/license.txt#L26
