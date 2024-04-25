@@ -15,7 +15,7 @@ Filename: `InnoSetup-6.2.2-LZMA2201-4GbPerPart.7z`
 [![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-with-latest-LZMA.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/latest/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
-[![v6.3.0-dev Release Downloads](https://img.shields.io/github/downloads/Wilenty/Plug-ins-for-InnoSetup/v6.3.0-devFLZMA2c/total.svg)](https://github.com/Wilenty/Plug-ins-for-InnoSetup/releases/v6.3.0-devFLZMA2c)
+[![v6.3.0-dev Release Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/v6.3.0-devFLZMA2c/total.svg)](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/releases/v6.3.0-devFLZMA2c)
 
 At the outset, according to the license:
 https://github.com/Wilenty/InnoSetup-with-latest-LZMA/blob/main/license.txt#L26
