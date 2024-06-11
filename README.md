@@ -1,4 +1,4 @@
-# InnoSetup v6.3.0-dev with FastLZMA2 compression
+# InnoSetup v6.3.1-dev with FastLZMA2 compression
 
 [![Latest Version](https://img.shields.io/github/release/Wilenty/InnoSetup-with-latest-LZMA.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/InnoSetup-with-latest-LZMA/total.svg)](https://github.com/Wilenty/InnoSetup-with-latest-LZMA/releases)
